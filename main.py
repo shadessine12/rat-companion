@@ -9,6 +9,7 @@ but don't answer, just go bruh how can you have such donut issue
 
 window = tk.Tk()
 window.title("Rat Maid")
+window.iconbitmap(r'C:\Users\julia\Downloads\favicon.ico')
 window.geometry('500x500')
 window.attributes('-alpha',0.5)
 '''
